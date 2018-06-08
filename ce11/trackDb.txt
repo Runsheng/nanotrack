@@ -1,0 +1,6 @@
+track  mix
+bigDataUrl track/mix1c.bw
+shortLabel bigWig mix
+longLabel Mix-stage
+type bigWig
+visibility full 

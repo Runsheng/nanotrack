@@ -1,0 +1,5 @@
+hub nanomix
+shortLabel nanomix
+longLabel nanomix
+genomesFile genomes.txt
+email runsheng.lee@gmail.com
