@@ -10,4 +10,4 @@ bigDataUrl track/bigg.bb
 shortLabel reads mix
 longLabel Mix-stage-reads
 type bigGenePred
-visibility full 
+visibility squish
