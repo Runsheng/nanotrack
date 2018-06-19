@@ -4,3 +4,10 @@ shortLabel bigWig mix
 longLabel Mix-stage
 type bigWig
 visibility full 
+
+track reads
+bigDataUrl track/bigg.bb
+shortLabel reads mix
+longLabel Mix-stage-reads
+type bigGenePred
+visibility full 
