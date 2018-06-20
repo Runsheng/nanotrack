@@ -1,9 +1,18 @@
-track  mix
+track  embomix
+bigDataUrl https://raw.github.com/Zhaolab/ucschub/master/ce11/track/n2.bw
+shortLabel SRR1050770
+longLabel Mix-stage embo for N2
+type bigWig
+visibility full
+color 200,0,0
+
+track  nanomix
 bigDataUrl track/mix1c.bw
 shortLabel bigWig mix
-longLabel Mix-stage
+longLabel Nano-mixstage
 type bigWig
 visibility full 
+color 170,0,0
 
 track reads
 bigDataUrl track/bigg.bb
