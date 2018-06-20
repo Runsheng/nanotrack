@@ -4,19 +4,20 @@ shortLabel SRR1050770
 longLabel Mix-stage embo for N2
 type bigWig
 visibility full
-color 200,0,0
+color 200,200,200
 
-track  nanomix
+track  Nanomix
 bigDataUrl track/mix1c.bw
 shortLabel bigWig mix
 longLabel Nano-mixstage
 type bigWig
 visibility full 
-color 170,0,0
+color 170,170,170
 
-track reads
+track Nanoreads
 bigDataUrl track/bigg.bb
 shortLabel reads mix
 longLabel Mix-stage-reads
 type bigGenePred
 visibility squish
+colorByStrand 64,224,208 250,128,114
