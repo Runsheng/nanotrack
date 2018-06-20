@@ -10,4 +10,5 @@ bigDataUrl track/bigg.bb
 shortLabel reads mix
 longLabel Mix-stage-reads
 type bigGenePred
+colorByStrand 64,224,208 250,128,114
 visibility squish
