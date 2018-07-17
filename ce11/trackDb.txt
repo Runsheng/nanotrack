@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 track  mix_L1
 bigDataUrl track/mix_L1.bw
 shortLabel bigWig L1 
 longLabel L1_wig 
 type bigWig
-visibility full 
+visibility full
+color 200,200,200
+
+track  embomix
+bigDataUrl https://raw.github.com/Zhaolab/ucschub/master/ce11/track/n2.bw
+shortLabel SRR1050770
+longLabel Mix-stage embo for N2
+type bigWig
+visibility full
+color 200,200,200
 
 track reads_L1
 bigDataUrl track/bigg_L1.bb
@@ -11,6 +21,7 @@ shortLabel reads from L1 worms
 longLabel L1-reads
 type bigGenePred
 visibility squish
+colorByStrand 64,224,208 250,128,114
 
 track reads_embo
 bigDataUrl track/bigg_EMBO.bb
@@ -18,3 +29,4 @@ shortLabel reads from embo
 longLabel EMBO-reads
 type bigGenePred
 visibility squish
+colorByStrand 64,224,208 250,128,114
