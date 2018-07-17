@@ -1,13 +1,20 @@
-track  mix
-bigDataUrl track/mix1c.bw
-shortLabel bigWig mix
-longLabel Mix-stage
+track  mix_L1
+bigDataUrl track/mix_L1.bw
+shortLabel bigWig L1 
+longLabel L1_wig 
 type bigWig
 visibility full 
 
-track reads
-bigDataUrl track/bigg.bb
-shortLabel reads mix
-longLabel Mix-stage-reads
+track reads_L1
+bigDataUrl track/bigg_L1.bb
+shortLabel reads from L1 worms 
+longLabel L1-reads
+type bigGenePred
+visibility squish
+
+track reads_embo
+bigDataUrl track/bigg_EMBO.bb
+shortLabel reads from embo 
+longLabel EMBO-reads
 type bigGenePred
 visibility squish
