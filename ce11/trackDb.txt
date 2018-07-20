@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 track  mix_L1
 bigDataUrl track/mix_L1.bw
 shortLabel bigWig L1 
@@ -27,6 +26,14 @@ track reads_embo
 bigDataUrl track/bigg_EMBO.bb
 shortLabel reads from embo 
 longLabel EMBO-reads
+type bigGenePred
+visibility squish
+colorByStrand 64,224,208 250,128,114
+
+track reads_YA
+bigDataUrl track/bigg_YA.bb
+shortLabel reads from Young adults 
+longLabel YA-reads
 type bigGenePred
 visibility squish
 colorByStrand 64,224,208 250,128,114
