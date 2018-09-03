@@ -37,3 +37,11 @@ longLabel YA-reads
 type bigGenePred
 visibility squish
 colorByStrand 64,224,208 250,128,114
+
+track reads_sw 
+bigDataUrl track/bigg_swonly.bb
+shortLabel SL-reads
+longLabel reads with Splicing leader 
+type bigGenePred
+visibility squish
+colorByStrand 64,224,208 250,128,114
