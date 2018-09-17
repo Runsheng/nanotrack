@@ -6,15 +6,6 @@ type bigWig
 visibility full
 color 200,200,200
 
-track YA_DNA_5mC_plus_01 
-bigDataUrl track/5mC_plus01.bw
-shortLabel 5mC_plus_YA_01 
-longLabel 5mC_plus_YA
-type bigWig
-visibility full
-color 200,200,200
-viewLimits=0.09:1.1
-
 track  embomix
 bigDataUrl https://raw.github.com/Zhaolab/ucschub/master/ce11/track/n2.bw
 shortLabel SRR1050770
