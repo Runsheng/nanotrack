@@ -46,10 +46,10 @@ type bigGenePred
 visibility squish
 colorByStrand 64,224,208 250,128,114
 
-track valid_new_isoforms 
-bigDataUrl track/valid.bb
-shortLabel new_isoforms 
-longLabel new_isoforms
-type bigGenePred
-visibility squish
+track nano_isoforms 
+bigDataUrl  track/valid.bb
+shortLabel  nano_isoforms 
+longLabel nano_isoforms
+type  bigGenePred
+visibility  squish
 colorByStrand 64,224,208 250,128,114
